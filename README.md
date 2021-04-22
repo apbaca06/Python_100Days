@@ -6,6 +6,7 @@ A python practice project
 ## Day 27: Tkinter, *args, **kwargs and Creating GUI Programs
 
 *args = arguments
+
 **kwargs = keyword arguments
 
 ### Tkinter
