@@ -39,3 +39,11 @@ Choose one of the three layout method
 `pyperclip.copy(word)`
 `pyperclip.paste()`
 
+## Day 30:  Error   s, Exceptions and JSON Data: Improving the Password
+```
+    try
+    except (if there's error)
+    else (no error)
+    finally
+    
+```
