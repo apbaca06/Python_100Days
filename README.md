@@ -47,3 +47,18 @@ Choose one of the three layout method
     finally
     
 ```
+
+## Day 32: Send Email (smtplib) & Manage Dates (datetime)
+### smtplib module
+```
+    with smtplib.SMTP("smtp.mail.yahoo.com") as connection:
+        connection.starttls()
+        connection.login(user=my_email, password=password)
+        # use \n\n to separate subject and content
+        connection.sendmail(from_addr=my_email, to_addrs=to_email, msg="Subject:Hello\n\nThis is a test email")
+```
+### datetime module
+```
+    datetime.now()
+```
+
