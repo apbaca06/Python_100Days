@@ -62,3 +62,10 @@ Choose one of the three layout method
     datetime.now()
 ```
 
+## Day 33: API Endpoints & API Parameters - ISS Overhead Notifier
+### requests module
+```
+    response = requests.get(url='', params = )
+    response.raise_for_status()
+    response.json()
+```
