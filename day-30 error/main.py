@@ -1,8 +1,13 @@
 # Demo 1
+
+# try, except, else, finally
+# TypeError
+# FileNotFound
+
 try:
     file = open("a_file.txt")
     a_dictionary = {"key": "value"}
-    print(a_dictionary["key"])
+    print(a_dictionary["kdfdfdey"])
 except FileNotFoundError:
     file = open("a_file.txt", "w")
     file.write("Something")
@@ -11,9 +16,15 @@ except KeyError as error_msg:
 else:
     content = file.read()
     print(content)
-finally:
-    raise KeyError
+finally:# raise TypeError("Made up error")
+    pass
+height = float(input("Height: "))
+weight = float(input("Weight: "))
 
+if height > 3:
+    raise ValueError("Human Height Impossible")
+
+bmi = weight / height ** 2
 # Demo 2
 fruits = ["Apple", "Pear", "Orange"]
 

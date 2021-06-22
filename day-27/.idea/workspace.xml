@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf3f7e17-721b-4421-b9b9-70e5ed84b512" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/converter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-30 error/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-30 error/nato.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-30 error/nato_phonetic_alphabet.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-30 error/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/day-27.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/day-27.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-30 error/.idea/day-30 error.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-30 error/.idea/day-30 error.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-30 error/a_file.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-30 error/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../day-30 error/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +47,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager" selected="Python.converter">
+  <component name="RunManager" selected="Python.main">
     <configuration name="converter" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="day-27" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -126,10 +133,10 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.main" />
       <item itemvalue="Python.converter" />
-      <item itemvalue="Python.tkinter_item" />
+      <item itemvalue="Python.main" />
       <item itemvalue="Python.playground" />
+      <item itemvalue="Python.tkinter_item" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -153,5 +160,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
